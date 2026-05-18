@@ -1,0 +1,17 @@
+# Build output
+build/
+out/
+*.exe
+*.obj
+*.o
+*.ilk
+*.pdb
+
+# Runtime save file
+muyu_save.txt
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
